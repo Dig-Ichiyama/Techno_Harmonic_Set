@@ -1,0 +1,25 @@
+# Ambiente Virtual
+venv/
+
+# Ficheiros de Configuração e Segredos
+.env
+
+# Ficheiros de Cache do Python
+__pycache__/
+*.pyc
+
+# Ficheiro de Cache do Spotipy
+.cache*
+
+# Pastas com ficheiros de áudio e dados gerados
+musicas_flac/
+DJ_Set_Final_Ordenado/
+ProjetinhoKey/
+musicas_flac
+
+# Ficheiros de dados gerados
+*.csv
+
+# Ficheiros gerados pelo sistema
+.DS_Store
+Thumbs.db
